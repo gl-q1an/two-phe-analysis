@@ -1,0 +1,22 @@
+{
+    "DESCRIBE1":"Add the names of the columns you want to auto-recognize to the following list",
+    "DESCRIBE2":"Letters must be LOWERCASE",
+    "DESCRIBE3":" ] cannot be preceded by a ',' but needs to be followed by it",
+    "SNP":["snp","rsid"],
+    "CHR":["chr"],
+    "BP":["bp","pos"],
+    "A1":["a1", "effect_allele"],
+    "A2":["a2", "non_effect_allele"],
+    "Z":["z"],
+    "OR":["or"],
+    "BETA":["beta","effect_beta", "beta1"],
+    "SE":["se", "stderr"],
+    "P":["p","pvalue"],
+    "N":["n"],
+    "Neff":["neff"],
+    "Nca":["nca"],
+    "Nco":["nco"],
+    "Frq":["frq","af1","freq_european_1000genomes", "freq1"],
+    "chrpos":["chr_bp_hg19b37"],
+    "chrposa1a2":[]
+}
